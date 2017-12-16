@@ -1,4 +1,6 @@
-# MySQL
+![Comandos](https://upload.wikimedia.org/wikipedia/en/thumb/6/62/MySQL.svg/640px-MySQL.svg.png)
+
+# MySQL Comandos
 
 ## 1. Sentencias
 
